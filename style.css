@@ -1,0 +1,77 @@
+.mainCont {
+  
+
+  height: 390px;
+  width: 390px;
+  margin-top: 1%;
+  
+  
+}
+
+.col-4 {
+  
+  height: 130px; 
+  border: 1px solid #E4E0D7;
+  color:#E4E0D7;
+  font-size:500%;
+  
+}
+
+.col-4:hover {
+  
+  background-color: #CBEBF8;
+  
+}
+
+.unflipped {
+  
+  background-image: url('http://img02.bibliocad.com/library/image/00040000/4000/blackmarblewhitestreakstexture_44602.jpg');
+  background-size: 100% 100%
+  
+}
+
+.flipped {
+  
+  background-image: url('http://www.desktop-screens.com/data/out/29/2739764-dark-blue-wallpapers.jpg');
+  background-size: 100% 100%
+  
+}
+
+.text {
+  
+  font-family: 'Crimson Text', serif;
+  
+}
+
+button {
+  
+  margin: 2% 7% 2% 7%;
+  height: 75px;
+  width: 75px;
+  font-size:300%;
+  color:#E4E0D7;
+  background-color:#232323;
+  
+  
+}
+
+button:hover {
+  
+  color:#232323;
+  background-color:#E4E0D7;
+  border-color:#232323;
+  
+}
+
+body {
+  
+  background-color: #F4E4A9;
+  
+}
+
+.finish {
+  
+  font-size:300%;
+  margin-top: 3%;
+  
+}
